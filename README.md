@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leonirmal
-- 👀 I’m interested in software developer fresher role
-- 🌱 I’m currently learning Java programming
-- 💞️ I’m looking to collaborate on Java project development
+- 👀 I’m interested in software developer role
+- 💞️ I’m looking to collaborate on C# project development
 - 📫 How to reach me on gm leonirmal.js@gmail.com
 
 <!---
